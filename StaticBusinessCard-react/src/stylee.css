@@ -1,0 +1,129 @@
+.name  {
+    position: absolute;
+   width: 178.06px;
+   height: 25.81px;
+   left: 70px;
+   top: 12px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 30px;
+   text-align: center;
+   color: #2B283A;
+
+}
+h2{
+   position: absolute;
+   width: 178.06px;
+   height: 14.19px;
+   left: 70px;
+   top: 52px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 12.8px;
+   line-height: 15px;
+   text-align: center;
+   color: #F47D27;
+
+}
+h3{
+    position: absolute;
+    width: 228px;
+    height: 16px;
+    left: 45px;
+    top: 75px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+/* identical to box height, or 15px */
+    text-align: center;
+    color: #4A4E74;
+}
+.abt{
+    position:absolute;
+    left: 35px;
+    top: 167px;
+    width: 242.71px;
+    height: 21px;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size:16px ;
+    font-style: normal;
+    line-height: 150%;
+/* or 24px */
+    color: #2B283A;
+}
+.inte{
+    position:absolute;
+    left: 35px;
+    top: 281px;
+    width: 242.71px;
+    height: 21px;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size:16px ;
+    font-style: normal;
+    line-height: 150%;
+/* or 24px */
+    color: #2B283A;
+}
+.abtp{
+    position: absolute;
+    width: 247px;
+    height: 61px;
+    left: 35px;
+    top: 193px;
+    font-family: 'Inter';
+     font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+/* or 15px */
+    color: #4A4E74;
+
+}
+.intep{
+    position: absolute;
+    width: 247px;
+    height: 61px;
+    left: 35px;
+    top: 307px;
+    font-family: 'Inter';
+     font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+/* or 15px */
+    color: #4A4E74;
+
+}
+
+
+.twitter{
+    position: absolute;
+    left: 75px;
+    top: 19.5px;
+    bottom:19.5px;
+}
+.facebook{
+    position: absolute;
+    left: 122px;
+    top: 19.5px;
+    bottom:19.5px;
+}
+.insta{
+    position: absolute;
+    left: 171px;
+    top: 19.5px;
+    bottom:19.5px;
+}
+.github{
+    position: absolute;
+    left: 221px;
+    top: 19.5px;
+    bottom:19.5px;
+}
