@@ -1,0 +1,88 @@
+.total{
+  margin: 0;
+  
+}
+
+
+nav {
+  
+   display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+  padding: 0.75em 0;
+  background-color:#F55A5A ;
+  gap: 0.5em;
+}
+
+.nav--title {
+  color: white;
+  font-weight: 500;
+  font-family: Inter;
+  line-height: 1em;
+  letter-spacing: -0.075em;
+}
+
+
+
+.card {
+  
+  display: flex;
+  flex-direction: row;
+  padding: 2em 0;
+  
+}
+.card--location {
+  display: inline-block;
+  font-size: 10.04px;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+  margin: 0 1em 0 0.25em;
+  color: #2B283A ;
+}
+
+
+
+.card--location-url {
+  color:#918E98 ;
+  font-size: 0.75rem;
+}
+.card--img {
+  height: 100%;
+  padding-left: 40px;
+  object-fit: cover;
+  border-radius: 5px;
+  
+
+  
+}
+
+.all {
+  margin-left: 1em;
+  padding: 0.5em;
+  
+}
+.card--title {
+  font-size: 2rem;
+  margin: 0.25em 0;
+  font-family: Inter;
+  font-weight: 700;
+}
+.card--description {
+  max-width: 50rem;
+  margin-top: 2em;
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 150%;
+}
+
+.card--date {
+  font-family: Inter;
+  font-weight: 700;
+
+}
+.hrr{
+  border: 1px solid #F5F5F5;
+}
+
+
